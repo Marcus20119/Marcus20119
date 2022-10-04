@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Marcus20119"><img src="https://api.daily.dev/devcards/c5eb2c825a1e44d5bd4f9d2c62bc0766.png?r=y0s" width="400" alt="Marcus Nguyen's Dev Card"/></a>
+<a href="https://app.daily.dev/Marcus20119"><img src="https://api.daily.dev/devcards/c5eb2c825a1e44d5bd4f9d2c62bc0766.png?r=y0s" width="200" alt="Marcus Nguyen's Dev Card"/></a>
 
 <!--
 **Marcus20119/Marcus20119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

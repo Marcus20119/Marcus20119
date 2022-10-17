@@ -3,7 +3,7 @@
 <div style="display: flex; gap: 10px">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus20119&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus20119&layout=compact&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus20119&layout=compact&theme=dark&hide_border=true&bg_color=transparent" />
 </div>
 
 

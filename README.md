@@ -1,15 +1,15 @@
 ### Hi there I'm Marcus Nguyen 👋
 
 <div style="display: flex; gap: 10px">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus20119&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true&bg_color=22272E" style="cursor: default" onClick="(e) => e.preventDefault()"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus20119&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true&bg_color=22272E"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus20119&layout=compact&theme=dark&hide_border=true&bg_color=22272E" style="cursor: default" onClick="(e) => e.preventDefault()"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus20119&layout=compact&theme=dark&hide_border=true&bg_color=22272E"/>
 </div>
 
 
 ### My Achievements 🏆
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <a href="https://app.daily.dev/Marcus20119" style="cursor: default !important" onClick="function(e){e.preventDefault()}">
+<div>
+  <a href="https://app.daily.dev/Marcus20119">
     <img src="https://api.daily.dev/devcards/c5eb2c825a1e44d5bd4f9d2c62bc0766.png?r=y0s" width="125" alt="Marcus Nguyen's Dev Card"/>
   </a>
   <img src="https://leetcard.jacoblin.cool/Marcus20119?theme=nord" alt="Marcus Nguyen's leetcard"/>

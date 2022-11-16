@@ -6,13 +6,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus20119&layout=compact&theme=dark&hide_border=true&bg_color=22272E" />
 </div>
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ### My Achievements 🏆
 

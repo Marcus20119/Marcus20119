@@ -12,7 +12,7 @@
   <a href="https://app.daily.dev/Marcus20119">
     <img src="https://api.daily.dev/devcards/c5eb2c825a1e44d5bd4f9d2c62bc0766.png?r=y0s" width="125" alt="Marcus Nguyen's Dev Card"/>
   </a>
-  <img src="https://leetcard.jacoblin.cool/Marcus20119?theme=nord" alt="Marcus Nguyen's leetcard"/>
+  <img src="https://leetcard.jacoblin.cool/Marcus20119?theme=nord" height="170" alt="Marcus Nguyen's leetcard"/>
 </div>
 
 

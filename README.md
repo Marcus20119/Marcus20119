@@ -1,9 +1,9 @@
 ### My Github Activities 😎
 
 <div style="display:flex">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcus20119&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true&bg_color=22272E"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcus20119&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true&bg_color=22272E"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus20119&layout=compact&theme=dark&hide_border=true&bg_color=22272E"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus20119&layout=compact&theme=dark&hide_border=true&bg_color=22272E"/>
 </div>
 
 
